@@ -1,0 +1,80 @@
+{
+  "name": "black-lotus",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.8",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "draft-convert": "^2.1.13",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "flickity": "^3.0.0",
+    "formik": "^2.2.9",
+    "fslightbox-react": "^1.6.2-2",
+    "immutability-helper": "^3.1.1",
+    "jquery": "^3.6.1",
+    "moment": "^2.29.4",
+    "multiselect-react-dropdown": "^2.0.25",
+    "rc-pagination": "^3.1.17",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-checkmark": "^1.4.0",
+    "react-data-table-component": "^7.5.3",
+    "react-datepicker": "^4.8.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-dropzone": "^14.2.2",
+    "react-flickity-component": "^3.6.3",
+    "react-hook-form": "^7.34.2",
+    "react-image-lightbox": "^5.1.4",
+    "react-image-video-lightbox": "^3.0.0",
+    "react-modal-image": "^2.6.0",
+    "react-router-dom": "^6.4.1",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.4.0",
+    "react-sortable-hoc": "^2.0.0",
+    "react-swal": "^4.0.0",
+    "react-table": "^7.8.0",
+    "reject": "^0.0.1",
+    "resolve": "^1.22.1",
+    "sass": "^1.55.0",
+    "styled-components": "^5.3.6",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.4.36",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.23"
+  }
+}
